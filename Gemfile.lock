@@ -20,6 +20,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rack
   sinatra
   thin
